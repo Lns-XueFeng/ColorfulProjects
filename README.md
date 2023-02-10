@@ -1,8 +1,7 @@
 ## ColorfulProjects
-<h4>ColorfulProjects项目集合平时想到</h4>
+<h4>ColorfulProjects项目集合平时想到的</h4>
 - 有趣的
 - 灵光一现的
-- 很酷的
 <h4>想法利用Python进行实现</h4>
 
 ### SIR疫情感染模拟
