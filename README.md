@@ -1,5 +1,5 @@
 ## ColorfulProjects
-- <h4>ColorfulProjects项目集合平时想到</h4>
+<h4>ColorfulProjects项目集合平时想到</h4>
 - 有趣的
 - 灵光一现的
 - 很酷的
