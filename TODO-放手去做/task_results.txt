@@ -1,0 +1,24 @@
+每日任务完成情况：
+
+2022-09-14 22:20开始：
+<Task todo_task=读一百行源代码, duration=0, finish=False>
+<Task todo_task=看一百页的书籍, duration=0, finish=False>
+<Task todo_task=去学习前端开发, duration=0, finish=False>
+<Task todo_task=玩原神和肝须弥, duration=0, finish=False>
+2022-09-14 22:20结束：
+<Task todo_task=读一百行源代码, duration=0.0s, finish=True>
+<Task todo_task=看一百页的书籍, duration=1.0s, finish=True>
+<Task todo_task=去学习前端开发, duration=1.0s, finish=True>
+<Task todo_task=玩原神和肝须弥, duration=1.0s, finish=True>
+
+
+2022-09-14 22:20开始：
+<Task todo_task=读一百行源代码, duration=0, finish=False>
+<Task todo_task=看一百页的书籍, duration=0, finish=False>
+<Task todo_task=去学习前端开发, duration=0, finish=False>
+<Task todo_task=玩原神和肝须弥, duration=0, finish=False>
+2022-09-14 22:20结束：
+<Task todo_task=读一百行源代码, duration=0.0s, finish=True>
+<Task todo_task=看一百页的书籍, duration=1.0s, finish=True>
+<Task todo_task=去学习前端开发, duration=1.0s, finish=True>
+<Task todo_task=玩原神和肝须弥, duration=1.0s, finish=True>
